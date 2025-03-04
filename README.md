@@ -1,5 +1,3 @@
-# British_Airways_Reviews_Project
-
 ---
 
 # **British Airways Reviews Analysis**  
@@ -7,7 +5,8 @@
 ## **Project Overview**  
 This project analyzes customer reviews of **British Airways**, focusing on overall satisfaction, service quality, and aircraft performance. The dataset includes passenger ratings from **March 2016 to October 2023**, covering various aspects like **cabin staff service, entertainment, food, ground service, seat comfort, and value for money**.  
 
-**British Airways Dashboard**
+## **British Airways Dashboard** 
+
 ![Image Alt](https://github.com/mayurkhadse01/British_Airways_Reviews_Project/blob/f606e526f1e606e12b19ecefea555e7f6b60d826/Dashboard%201.png)
 
 
